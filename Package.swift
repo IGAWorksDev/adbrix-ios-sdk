@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdbrixSDK",
-            url: "https://github.com/IGAWorksDev/adbrix-ios-sdk/releases/download/3.0.1/AdbrixSDK.xcframework.zip",
-            checksum: "a6c39e16eebb154468c1d11f5dbd04da184dd26b8f5f119d9a2318fe664fe3b6"
+            url: "https://github.com/IGAWorksDev/adbrix-ios-sdk/releases/download/3.0.2/AdbrixSDK.xcframework.zip",
+            checksum: "1a03e7feaa6162d710ab5ef012d244da175fdfe6031e2fbee788bd271deb491e"
         )
     ]
 )
