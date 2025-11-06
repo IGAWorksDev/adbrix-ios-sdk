@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
     spec.name         = "adbrix2.0"
-    spec.version      = "3.0.3"
+    spec.version      = "3.1.0"
     spec.platform = :ios
     spec.summary      = "adbrix2.0."
     spec.homepage     = "https://www.adbrix.io/"
@@ -11,8 +11,8 @@ Pod::Spec.new do |spec|
     spec.license      = { :type => 'Commercial'}
     spec.author       = { "Jimmy" => "jimmy.kang@igaworks.com" }
     spec.source       = { 
-      :http => "https://github.com/IGAWorksDev/adbrix-ios-sdk/releases/download/v3.0.3/AdbrixSDK.xcframework.zip",
-      :sha256 => 'b998af9f8630e7237121859cb79d075f993994b0107b54a677a9a9bad719f670'
+      :http => "https://github.com/IGAWorksDev/adbrix-ios-sdk/releases/download/v3.1.0/AdbrixSDK.xcframework.zip",
+      :sha256 => '4b8f958c14b0c8690ee48a86950305d1564699080f4b88347956456e339e587c'
     }
     spec.ios.deployment_target = '12.0'
   
