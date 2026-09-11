@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
     spec.author       = { "Jimmy" => "jimmy.kang@igaworks.com" }
     spec.source       = { 
       :http => "https://github.com/IGAWorksDev/adbrix-ios-sdk/releases/download/v3.2.4/AdbrixSDK.xcframework.zip",
-      :sha256 => '51b62c07ece01aaa768e9a8901a85f9b9b57689d4474bec5d868dd24524b28a4'
+      :sha256 => 'abb28a773e763c693797d44c91661265d99d0dbf113e250d2ade2fef9fb18373'
     }
     spec.ios.deployment_target = '12.0'
   
